@@ -1,0 +1,19 @@
+body {
+    background: gray;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    width: 98%;
+    background: darkgray;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.main {
+    background-color: dimgray;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px;
+}
